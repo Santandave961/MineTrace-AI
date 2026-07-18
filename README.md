@@ -2,7 +2,7 @@
 
 Satellite-based detection of artisanal and small-scale gold mining (ASM) sites in Nigeria, built on Sentinel-2 imagery and a CNN tile classifier. Initial focus: the **Zamfara gold belt**, NW Nigeria.
 
-> Built by [Wisdom Okparaji](https://github.com/Santandave961) — Data Scientist / ML Engineer bridging accounting/finance background with applied ML. Follow the build on [X (@Santandave961)](https://x.com/Santandave961).
+> Built by [Wisdom Okparaji](https://github.com/Santandave961) — Data Scientist / ML Engineer bridging accounting/finance background with applied ML. Follow the build on [X (@WOkparaji74619)](https://x.com/Santandave961).
 
 ---
 
